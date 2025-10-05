@@ -18,6 +18,11 @@ http://alb-lambda-integration-01-1423243074.ap-south-1.elb.amazonaws.com/predict
 http://alb-lambda-integration-01-1423243074.ap-south-1.elb.amazonaws.com
 ```
 
+## HLD
+
+<img width="831" height="411" alt="Nifty_Arch drawio" src="https://github.com/user-attachments/assets/7bcecd80-431a-4003-acdc-2acd7fabc8f2" />
+
+
 ## Deployment
 
 Prereqs: AWS CLI configured, Docker, GitHub repo cloned, AWS account with appropriate permissions.
