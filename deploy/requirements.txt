@@ -1,0 +1,12 @@
+fastapi==0.118.0
+mangum==0.17.0
+pandas==2.2.3
+joblib==1.5.2
+ta==0.11.0
+uvicorn==0.30.6
+pandas-datareader==0.10.0
+pydantic==2.10.3
+numpy==1.26.4
+scikit-learn==1.5.2
+requests==2.31.0
+nsepy==1.2.0
