@@ -8,6 +8,16 @@ An Application Load Balancer (ALB) (public) sits in front of the Lambda and prov
 
 Model artifact and any required static data can be stored in S3. Logs, metrics, and traces flow to CloudWatch and X-Ray.
 
+## URL
+
+```bash
+# For Predictio - GET Request
+http://alb-lambda-integration-01-1423243074.ap-south-1.elb.amazonaws.com/predict
+
+# For Health Check
+http://alb-lambda-integration-01-1423243074.ap-south-1.elb.amazonaws.com
+```
+
 ## Deployment
 
 Prereqs: AWS CLI configured, Docker, GitHub repo cloned, AWS account with appropriate permissions.
